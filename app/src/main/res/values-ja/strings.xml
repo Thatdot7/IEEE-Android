@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorial</string>
+
+    <string name="name">名前</string>
+    <string name="email">Eメール</string>
+    <string name="tel">電話番号</string>
+
+</resources>
